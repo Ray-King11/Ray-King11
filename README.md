@@ -34,7 +34,7 @@ Hello my name is Ray King, Im a Software Developmente student and I love technol
 
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ray-King11&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ffff00&text_color=FFF)](https://github.com/Ray-King11/dio-lab-open-source.git)()
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ray-King11&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ffff00&text_color=FFF)](https://github.com/Ray-King11/dio-lab-open-source.git)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ray-King11&theme=vision-friendly-dark&background=000&border=8a2be2&dates=FFF)](https://github.com/Ray-King11/dio-lab-open-source.git)
