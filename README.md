@@ -2,15 +2,21 @@
 
 # Ray King
 
-Hello my name is Ray King, Im a Software Developmente student and I love technology.
+Hello, my name is Raí Dugo, I am an Information Technology student and I love technology.
 
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ray-King11)
 
 
-## Habilidades
+# Habilidades
+
+## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/pt)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Linguagens de Marcação e Estilo
 ![HTML5](https://img.shields.io/badge/HTML5-ff4500?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,11 +28,13 @@ Hello my name is Ray King, Im a Software Developmente student and I love technol
 
 
 ## Serviço de Computação em Nuvem
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-4F4F4F.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ## Sistema Operacional
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![iOS](https://img.shields.io/badge/iOS-1C1C1C?style=for-the-badge&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
 ## GitHub Stats
