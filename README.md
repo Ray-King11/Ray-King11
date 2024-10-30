@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=150&section=header"/>
 
-# Ray King
+# Descrição
 
 Hello, my name is Raí Dugo, I am an Information Technology student and I love technology.
 
