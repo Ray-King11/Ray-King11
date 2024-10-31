@@ -2,7 +2,7 @@
 
 # Descrição
 
-Hello, my name is Raí Dugo, I am an Information Technology student and I love technology.
+Hello, my name is Ray Dugo, I am an Information Technology student and I love technology.
 
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ray-King11)
