@@ -27,13 +27,13 @@ Hello, my name is Ray Dugo, I am an Information Technology student and I love te
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Serviço de Computação em Nuvem
-![AWS](https://img.shields.io/badge/AWS-4F4F4F.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-00000f.svg?style=for-the-badge&logo=amazonwebservices&logoColor=FFB71B)
 
 
 ## Sistema Operacional
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Windows](https://img.shields.io/badge/Windows-1E90FF?style=for-the-badge&logo=windows&logoColor=87CEFA)
 ![iOS](https://img.shields.io/badge/iOS-1C1C1C?style=for-the-badge&logo=ios&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-F5FFFA?style=for-the-badge&logo=android&logoColor=0FF7F)
 
 
 ## Ferramentas de IAs Generativas
