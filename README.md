@@ -5,7 +5,7 @@
 
 ## Hello, my name is Raí!👋 <br>
 
-💻 I am a technology student and I very like technologies.
+💻 💬 I am a technology student and I very like technologies.
 
 
  ### 📚 Formações acadêmicas: <br>
