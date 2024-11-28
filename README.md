@@ -14,8 +14,13 @@ Curso Superior em Gestão da Tecnologia da Informação <br>
 
 Curso Superior em Gestão da Produção Industrial <br>
 
+          
 
 
+          
+          
+           
+          
 ### Conecte-se comigo 🚀
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ray-King11) <br>
 
@@ -24,11 +29,14 @@ Curso Superior em Gestão da Produção Industrial <br>
 
 ### 🛠 Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/pt)
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px"/> ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ 
+
+ 
 
 ### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-1E90FF?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="80"/>
 
 ### Linguagens de Marcação e Estilo
 ![HTML5](https://img.shields.io/badge/HTML5-ff4500?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,21 +46,31 @@ Curso Superior em Gestão da Produção Industrial <br>
 ### Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/>
 
-### Serviço de Computação em Nuvem
-![AWS](https://img.shields.io/badge/AWS-00000f.svg?style=for-the-badge&logo=amazonwebservices&logoColor=FFB71B)
+### Cloud Computing Service
+<img src="https://www.datasunrise.com/wp-content/themes/datasunrise_redesign/img/svg/aws-promo-logo.svg" width="70px"/>  
 
 
-### Sistemas Operacionais
-![Windows](https://img.shields.io/badge/Windows-1E90FF?style=for-the-badge&logo=windows&logoColor=87CEFA)
-![iOS](https://img.shields.io/badge/iOS-1C1C1C?style=for-the-badge&logo=ios&logoColor=white)
-![Android](https://img.shields.io/badge/Android-F5FFFA?style=for-the-badge&logo=android&logoColor=0FF7F)
+### Operating Systems
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="30px" />  ![Windows](https://img.shields.io/badge/Windows-1E90FF?style=for-the-badge&logo=windows&logoColor=87CEFA)<br>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH3EF41GQtwKiRIPDnWKCRgZd5HDuO3cLEfg&s" width="30px"  /> ![](https://img.shields.io/badge/iOS-1C1C1C?style=for-the-badge&logo=&logoColor=black)<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="40px"/>![Android](https://img.shields.io/badge/Android-F5FFFA?style=for-the-badge)
 
 
 ### Ferramentas de IAs Generativas
+
 ![Google Gemini](https://img.shields.io/badge/Gemini-F0F8FF?style=for-the-badge&logo=GoogleGemini&logoColor=1E90FF)
-![Github Copilot](https://img.shields.io/badge/Github_Copilot-483D8B?style=for-the-badge&logo=githubcopilot&logoColor=000000)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=FFFAFA)
+
+ ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=FFFAFA)
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Microsoft_365_Copilot_Icon.svg/1024px-Microsoft_365_Copilot_Icon.svg.png" width="30px"/>![Copilot](https://img.shields.io/badge/Microsoft_365_Copilot-000000?style=for-the-badge&logo=Microsoft_365_Copilot&logoColor=FFFAFA)
+
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.5.0/files/dark/githubcopilot.png" width="30px"/> ![Github Copilot](https://img.shields.io/badge/Github_Copilot-483D8B?style=for-the-badge)
+
 
 
 ## GitHub Stats
