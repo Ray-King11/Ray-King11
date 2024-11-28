@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=150&section=header"/>
 <img width=100% src="https://wallpapers.com/images/high/4k-tech-twtykjtj0sv4hi62.webp?type=waving&color=00ff00&height=150&section=header"/>
 
-# | Bem-vindo ao meu GitHub! |
+# | Welcome to my GitHub! |
 
 ## Hello, my name is Raí!👋 <br>
 
