@@ -4,22 +4,7 @@
 # | Welcome to my GitHub! |
 
 ## Hello, my name is Raí!👋 <br>
-
-💻 💬 I am a technology student and I very like technologies.
-
-
- ### 📚 Formações acadêmicas: <br>
-
-Curso Superior em Gestão da Tecnologia da Informação <br>
-
-Curso Superior em Gestão da Produção Industrial <br>
-
-          
-
-
-          
-          
-           
+               
           
 ### Conecte-se comigo 🚀
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ray-King11) <br>
@@ -28,6 +13,7 @@ Curso Superior em Gestão da Produção Industrial <br>
 ## **Skills**
 
 ### 🛠 Ferramentas
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/pt)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px"/> ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
