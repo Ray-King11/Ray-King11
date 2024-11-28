@@ -1,17 +1,28 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=150&section=header"/>
+<img width=100% src="https://wallpapers.com/images/high/4k-tech-twtykjtj0sv4hi62.webp?type=waving&color=00ff00&height=150&section=header"/>
 
-# | Descrição |
-Hello, my name is Ray Dugo, I am an Information Technology student and I love technology.<br>
+# | Bem-vindo ao meu GitHub! |
+
+## Hello, my name is Raí!👋 <br>
+
+💻 I am a technology student and I very like technologies.
+
+
+ ### 📚 Formações acadêmicas: <br>
+
+Curso Superior em Gestão da Tecnologia da Informação <br>
+
+Curso Superior em Gestão da Produção Industrial <br>
 
 
 
-### Conecte-se comigo 
+### Conecte-se comigo 🚀
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ray-King11) <br>
 
 
 ## **Habilidades**
 
-### Ferramentas
+### 🛠 Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/pt)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -53,5 +64,9 @@ Hello, my name is Ray Dugo, I am an Information Technology student and I love te
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ray-King11&repo=trilha-python-dio&bg_color=000&border_color=7CFC00&show_icons=true&icon_color=30A3DC&title_color=ffff00&text_color=FFF)](https://github.com/Ray-King11/trilha-python-dio.git)
 
 
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ray-King11&theme=vision-friendly-dark&background=000&border=8a2be2&dates=FFF)](https://github.com/digitalinnovationone/dio-lab-open-source.git)
+
+<img width=75% src="https://i.pinimg.com/736x/5a/70/49/5a704961f5f150e23580da94bd240b4f.jpg?type=waving&color=00ff00&height=50&section=header"/>
+
+## Licença
+[MIT](https://choosealicense.com/licenses/mit/)
