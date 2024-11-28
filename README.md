@@ -5,6 +5,10 @@
 
 ## Hello, my name is Raí!👋 <br>
 
+| Cursos | Certificados |
+|--------|--------------|
+|Lógica de Programação Essencial | [Certificado](https://hermes.dio.me/certificates/B5MCIDVP.pdf) |
+
 💻 💬 I am a technology student and I very like technologies.
                
           
