@@ -1,13 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=150&section=header"/>
 <img width=100% src="https://wallpapers.com/images/high/4k-tech-twtykjtj0sv4hi62.webp?type=waving&color=00ff00&height=150&section=header"/>
 
-# | Welcome to my GitHub! |
+# Welcome to my GitHub! 
 
 ## Hello, my name is Raí!👋 <br>
 
 | Cursos | Certificados |
 |--------|--------------|
 |Lógica de Programação Essencial | [Certificado](https://hermes.dio.me/certificates/B5MCIDVP.pdf) |
+|Formação Power BI Analyst | [Certificado](https://hermes.dio.me/certificates/RC2AWILG.pdf)|
 
 💻 💬 I am a technology student and I very like technologies.
                
