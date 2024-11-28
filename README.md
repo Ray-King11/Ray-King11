@@ -20,7 +20,7 @@ Curso Superior em Gestão da Produção Industrial <br>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ray-King11) <br>
 
 
-## **Habilidades**
+## **Skills**
 
 ### 🛠 Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/pt)
