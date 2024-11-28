@@ -3,7 +3,7 @@
 
 # Welcome to my GitHub! 
 
-## Hello, my name is Raí!👋 <br>
+## Hello, my name is Raí Amorim!👋 <br>
 
 | Cursos | Certificados |
 |--------|--------------|
