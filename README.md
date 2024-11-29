@@ -59,7 +59,7 @@
 
 ![Google Gemini](https://img.shields.io/badge/Gemini-F0F8FF?style=for-the-badge&logo=GoogleGemini&logoColor=1E90FF)
 
- ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=FFFAFA)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=FFFAFA)
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Microsoft_365_Copilot_Icon.svg/1024px-Microsoft_365_Copilot_Icon.svg.png" width="30px"/>![Copilot](https://img.shields.io/badge/Microsoft_365_Copilot-000000?style=for-the-badge&logo=Microsoft_365_Copilot&logoColor=FFFAFA)
@@ -71,6 +71,7 @@
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ray-King11&theme=blue-green&bg_color=&border_color=DC143C&show_icons=true&icon_color=ffd700&title_color=1e90ff&text_color=00ffff&hide_title=true&)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray-King11&layout=compact&langs_count=7&theme=dracula"/>
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ray-King11&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ffff00&text_color=FFF)](https://github.com/Ray-King11/dio-lab-open-source.git)
@@ -78,6 +79,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ray-King11&theme=vision-friendly-dark&background=000&border=8a2be2&dates=FFF)](https://github.com/digitalinnovationone/dio-lab-open-source.git)
+
 
 <img width=75% src="https://i.pinimg.com/736x/5a/70/49/5a704961f5f150e23580da94bd240b4f.jpg?type=waving&color=00ff00&height=50&section=header"/>
 
