@@ -10,6 +10,7 @@
 |Lógica de Programação Essencial | [Certificado](https://hermes.dio.me/certificates/B5MCIDVP.pdf) |
 |Formação Power BI Analyst | [Certificado](https://hermes.dio.me/certificates/RC2AWILG.pdf)|
 |NTT DATA - Engenharia de Dados com Python | [Certificado](https://hermes.dio.me/certificates/AWKM8T2S.pdf) | 
+|Microsoft Copilot AI | [Certificado](https://hermes.dio.me/certificates/Q3JCPJWA.pdf)|
 
 💻 💬 I am a technology student and I very like technologies.
                
