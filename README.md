@@ -5,6 +5,8 @@
 
 ## Hello, my name is Raí Amorim!👋 <br>
 
+💻 💬 I am a technology student and I very like technologies.
+
 | Cursos | Certificados |
 |--------|--------------|
 |Lógica de Programação Essencial | [Certificado](https://hermes.dio.me/certificates/B5MCIDVP.pdf) |
@@ -13,7 +15,7 @@
 |Microsoft Copilot AI | [Certificado](https://hermes.dio.me/certificates/Q3JCPJWA.pdf)|
 |Administração de sistemas e Serviços de Infraestrutura de TI | [Certificado](https://www.coursera.org/account/accomplishments/verify/YPBMKN359STZ?utm_source=android&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course&trk=public_profile_certification-title)|
 
-💻 💬 I am a technology student and I very like technologies.
+
                
           
 ### Conecte-se comigo 🚀
