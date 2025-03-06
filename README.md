@@ -64,6 +64,11 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="40px"/>![Android](https://img.shields.io/badge/Android-F5FFFA?style=for-the-badge)
 
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
+
+
 
 ### Ferramentas de IAs Generativas
 
