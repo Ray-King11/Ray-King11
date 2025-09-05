@@ -15,6 +15,8 @@
 |Microsoft Copilot AI | [Certificado](https://hermes.dio.me/certificates/Q3JCPJWA.pdf)|
 |Formação Python Fundamentals |[Certificado](https://hermes.dio.me/certificates/BRHFTRER.pdf)
 |Formação Linux Fundamentals |[Certificado](https://hermes.dio.me/certificates/R9NHNMK3.pdf)
+|Formação Cybersecurity Specialist|[Certificado](https://hermes.dio.me/certificates/HMCZWPKB.pdf)
+|Formação Fundamentos de Inteligência Artificial|[Certificado](https://hermes.dio.me/certificates/ERPGMEQK.pdf)
 |Administração de sistemas e Serviços de Infraestrutura de TI | [Certificado](https://www.coursera.org/account/accomplishments/verify/YPBMKN359STZ?utm_source=android&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course&trk=public_profile_certification-title)|
 
 
