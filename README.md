@@ -92,6 +92,7 @@
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ray-King11&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ffff00&text_color=FFF)](https://github.com/Ray-King11/dio-lab-open-source.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ray-King11&repo=Spider-Verse&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ffff00&text_color=FFF)](https://github.com/Ray-King11/Spider-Verse.git)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ray-King11&repo=Cibersecurity-Ransomware&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ffff00&text_color=FFF)](https://github.com/Ray-King11/Cibersecurity-Ransomware.git)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ray-King11&repo=trilha-python-dio&bg_color=000&border_color=7CFC00&show_icons=true&icon_color=30A3DC&title_color=ffff00&text_color=FFF)](https://github.com/Ray-King11/trilha-python-dio.git)
 
