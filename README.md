@@ -79,7 +79,7 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=FFFAFA)
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Microsoft_365_Copilot_Icon.svg/1024px-Microsoft_365_Copilot_Icon.svg.png" width="30px"/>![Copilot](https://img.shields.io/badge/Microsoft_365_Copilot-000000?style=for-the-badge&logo=Microsoft_365_Copilot&logoColor=FFFAFA)
+<img src="https://img.utdstc.com/icon/100/9f5/1009f57c1bb1dc35d93bd3de9a0459dfbaf8527efcd307d72798ff0da80d1eda:200" width="30px"/>![Copilot](https://img.shields.io/badge/Microsoft_365_Copilot-000000?style=for-the-badge&logo=Microsoft_365_Copilot&logoColor=FFFAFA)
 
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.5.0/files/dark/githubcopilot.png" width="30px"/> ![Github Copilot](https://img.shields.io/badge/Github_Copilot-483D8B?style=for-the-badge)
 
