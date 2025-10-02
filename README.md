@@ -37,12 +37,19 @@
 ## **Skills**
 
 ### 🛠 Ferramentas
-
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/pt)
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) <br>
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) 
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px"/> ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)<br>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![M365 Copilot](https://img.shields.io/badge/M365_Copilot-7F01FF?style=for-the-badge&logo=microsoft-copilot&logoColor=white)
+
+
+
+
 
 ### Banco de Dados
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="80"/>
@@ -66,6 +73,8 @@
 ### Cloud Computing Service
 <img src="https://www.datasunrise.com/wp-content/themes/datasunrise_redesign/img/svg/aws-promo-logo.svg" width="70px"/>  
 
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+
 
 ### Operating Systems
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="30px" />  ![Windows](https://img.shields.io/badge/Windows-1E90FF?style=for-the-badge&logo=windows&logoColor=87CEFA)<br>
@@ -78,8 +87,6 @@
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
 
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -91,8 +98,7 @@
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=FFFAFA)
 
-
-<img src="https://img.utdstc.com/icon/100/9f5/1009f57c1bb1dc35d93bd3de9a0459dfbaf8527efcd307d72798ff0da80d1eda:200" width="30px"/>![Copilot](https://img.shields.io/badge/Microsoft_365_Copilot-000000?style=for-the-badge&logo=Microsoft_365_Copilot&logoColor=FFFAFA)
+<img src="https://img.utdstc.com/icon/100/9f5/1009f57c1bb1dc35d93bd3de9a0459dfbaf8527efcd307d72798ff0da80d1eda:200" width="30px"/>![Copilot](https://img.shields.io/badge/Microsoft_Copilot-000000?style=for-the-badge&logo=Microsoft_365_Copilot&logoColor=FFFAFA)
 
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.5.0/files/dark/githubcopilot.png" width="30px"/> ![Github Copilot](https://img.shields.io/badge/Github_Copilot-483D8B?style=for-the-badge)
 
