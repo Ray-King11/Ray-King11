@@ -37,15 +37,27 @@
 ## **Skills**
 
 ### 🛠 Ferramentas
+
+#### ⚙️ Virtualização
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/pt)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) 
+
+#### ☁️ Plataformas DevOps e CI/CD
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) <br>
+
+#### 🚀 IDEs e Editores de Código
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px"/> ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)<br>
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android_Studio-34A853?style=for-the-badge&logo=android-studio&logoColor=white)
+
+#### 💻 Produtividade e Office
 ![M365 Copilot](https://img.shields.io/badge/M365_Copilot-7F01FF?style=for-the-badge&logo=microsoft-copilot&logoColor=white)
+
+#### 📊 Análise e BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 
 
