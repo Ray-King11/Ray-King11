@@ -5,7 +5,7 @@
 
 ## Hello, my name is Raí Amorim!👋 <br>
 
-💻 💬 I am a technology student and I very like technologies.
+💻 💬 I am Developer FullStack | I very like technologies.
 
 | Cursos | Certificados |
 |--------|--------------|
