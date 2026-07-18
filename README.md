@@ -31,7 +31,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raí-amorim-a79a97246) <br>
 
 ### 📄 Documentation
-[![GitBook](https://img.shields.io/badge/GitBook-3884FF?logo=gitbook&logoColor=fff)](#)
+[![GitBook](https://img.shields.io/badge/GitBook-3884FF?logo=gitbook&logoColor=fff)](https://app.gitbook.com/o/orfwyyyj2k9ltmM45vjy/s/HaW3ptc6JmW7SZuWbzTe/)
 
 
 ## **Skills**
