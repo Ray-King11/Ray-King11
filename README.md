@@ -117,19 +117,17 @@
 
 
 ## GitHub Stats
-![Ray GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ray-King11&theme=merko&bg_color=&border_color=DC143C&show_icons=true&icon_color=ffd700&title_color=1e90ff&text_color=00ffff&hide_title=true&)
 
-![Ray Antunes GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ray-King11&layout=compact&langs_count=7&theme=dracula)
+[![Ray GitHub Stats](https://github-stats-extended.vercel.app/api?username=Ray-King11&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ray-King11&langs_count=4&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=chartreuse-dark)
+
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ray-King11&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ffff00&text_color=FFF)](https://github.com/Ray-King11/dio-lab-open-source.git)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ray-King11&repo=Spider-Verse&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ffff00&text_color=FFF)](https://github.com/Ray-King11/Spider-Verse.git)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ray-King11&repo=Cibersecurity-Ransomware&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ffff00&text_color=FFF)](https://github.com/Ray-King11/Cibersecurity-Ransomware.git)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ray-King11&repo=trilha-python-dio&bg_color=000&border_color=7CFC00&show_icons=true&icon_color=30A3DC&title_color=ffff00&text_color=FFF)](https://github.com/Ray-King11/trilha-python-dio.git)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ray-King11&theme=dark)](https://github.com/Ray-King11/dio-lab-open-source.git)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ray-King11&theme=dark)](https://github.com/Ray-King11/Spider-Verse)
 
 
 
