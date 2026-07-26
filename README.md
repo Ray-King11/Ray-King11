@@ -115,6 +115,9 @@
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.5.0/files/dark/githubcopilot.png" width="30px"/> ![Github Copilot](https://img.shields.io/badge/Github_Copilot-483D8B?style=for-the-badge)
 
 
+## 🚀 Featured Projects
+
+
 
 ## GitHub Stats
 
@@ -126,23 +129,6 @@
 ## Minhas Contribuições
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ray-King11&theme=dark)](https://github.com/Ray-King11/dio-lab-open-source.git)
-
-## Minhas Contribuições
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Ray-King11/Ray-King11/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Ray-King11/Ray-King11/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="Animação das contribuições do GitHub"
-    src="https://raw.githubusercontent.com/Ray-King11/Ray-King11/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 <img width=75% src="https://i.pinimg.com/736x/5a/70/49/5a704961f5f150e23580da94bd240b4f.jpg?type=waving&color=00ff00&height=50&section=header"/>
 
