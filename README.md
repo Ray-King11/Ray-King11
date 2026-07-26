@@ -127,8 +127,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ray-King11&theme=dark)](https://github.com/Ray-King11/dio-lab-open-source.git)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ray-King11&theme=dark)](https://github.com/Ray-King11/Spider-Verse)
-
 
 
 <img width=75% src="https://i.pinimg.com/736x/5a/70/49/5a704961f5f150e23580da94bd240b4f.jpg?type=waving&color=00ff00&height=50&section=header"/>
