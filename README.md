@@ -140,85 +140,265 @@ Atualmente estou aprofundando meus conhecimentos em:
 [![GitBook](https://img.shields.io/badge/GitBook-3884FF?logo=gitbook&logoColor=fff)](https://app.gitbook.com/o/orfwyyyj2k9ltmM45vjy/s/HaW3ptc6JmW7SZuWbzTe/)
 
 
-## **Skills**
+<h1 align="center">🧰 Skills e Ferramentas</h1>
 
-### 🛠 Ferramentas
+<!-- ==================== FERRAMENTAS ==================== -->
 
-#### ⚙️ Virtualização
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/pt)
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) 
+<h2 align="center">🛠️ Ferramentas</h2>
 
-#### ☁️ Plataformas DevOps e CI/CD
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) <br>
+<h3 align="center">⚙️ Virtualização</h3>
 
-#### 🚀 IDEs e Editores de Código
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px"/> ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)<br>
-![Android Studio](https://img.shields.io/badge/Android_Studio-34A853?style=for-the-badge&logo=android-studio&logoColor=white)
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"
+    alt="VirtualBox"
+  />
+</p>
 
-#### 💻 Produtividade e Office
-![M365 Copilot](https://img.shields.io/badge/M365_Copilot-7F01FF?style=for-the-badge&logo=microsoft-copilot&logoColor=white)
+<h3 align="center">🔀 Versionamento e colaboração</h3>
 
-#### 📊 Análise e BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+    alt="Git"
+  />
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+  <img
+    src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"
+    alt="GitLab"
+  />
+</p>
+
+<h3 align="center">🚀 IDEs e editores de código</h3>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge"
+    alt="Visual Studio Code"
+  />
+  <img
+    src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge"
+    alt="Visual Studio"
+  />
+  <img
+    src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"
+    alt="Xcode"
+  />
+  <img
+    src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"
+    alt="Android Studio"
+  />
+</p>
+
+<h2 align="center">💼 Produtividade</h3>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Microsoft%20365%20Copilot-7F01FF?style=for-the-badge"
+    alt="Microsoft 365 Copilot"
+  />
+</p>
+
+<h2 align="center">📊 Análise de dados e BI</h3>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black"
+    alt="Power BI"
+  />
+</p>
+
+<!-- ==================== BANCO DE DADOS ==================== -->
+
+<h2 align="center">🗄️ Bancos de dados</h2>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+    alt="MySQL"
+  />
+  <img
+    src="https://img.shields.io/badge/Azure%20SQL%20Database-0078D4?style=for-the-badge"
+    alt="Azure SQL Database"
+  />
+</p>
+
+<!-- ==================== DESENVOLVIMENTO ==================== -->
+
+<h2 align="center">💻 Desenvolvimento</h2>
+
+<h3 align="center">🎨 Linguagens de marcação e estilo</h3>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    alt="HTML5"
+  />
+  <img
+    src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white"
+    alt="CSS"
+  />
+  <img
+    src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"
+    alt="Markdown"
+  />
+</p>
+
+<h2 align="center">⌨️ Linguagens de programação</h3>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+    alt="JavaScript"
+  />
+  <img
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="Python"
+  />
+  <img
+    src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge"
+    alt="C Sharp"
+  />
+</p>
 
 
+<h2 align="center">📚 Bibliotecas e Frameworks</h2>
 
+<h3 align="center">🌐 Desenvolvimento Front-end</h3>
 
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+    alt="React"
+  />
+  <img
+    src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
+    alt="Angular"
+  />
+  <img
+    src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"
+    alt="Bootstrap"
+  />
+  <img
+    src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"
+    alt="Tailwind CSS"
+  />
+</p>
 
+<h3 align="center">⚙️ Desenvolvimento Back-end</h3>
 
-### Banco de Dados
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="80"/>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
+    alt=".NET"
+  />
+  <img
+    src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
+    alt="Django"
+  />
+  <img
+    src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
+    alt="Flask"
+  />
+</p>
 
-### Linguagens de Marcação e Estilo
-![HTML5](https://img.shields.io/badge/HTML5-ff4500?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![markdown](https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=000000)
+<!-- ==================== CLOUD ==================== -->
 
-### Linguagens de Programação
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/>
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+<h2 align="center">☁️ Computação em nuvem</h2>
 
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge"
+    alt="Amazon Web Services"
+  />
+  <img
+    src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge"
+    alt="Microsoft Azure"
+  />
+</p>
 
-### Bibliotecas e Frameworks
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+<!-- ==================== SISTEMAS OPERACIONAIS ==================== -->
 
+<h2 align="center">🖥️ Sistemas operacionais</h2>
 
-### Cloud Computing Service
-<img src="https://www.datasunrise.com/wp-content/themes/datasunrise_redesign/img/svg/aws-promo-logo.svg" width="70px"/>  
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge"
+    alt="Windows"
+  />
+  <img
+    src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"
+    alt="iOS"
+  />
+  <img
+    src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black"
+    alt="Android"
+  />
+  <img
+    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+    alt="Linux"
+  />
+  <img
+    src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+    alt="Ubuntu"
+  />
+  <img
+    src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"
+    alt="Kali Linux"
+  />
+  <img
+    src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white"
+    alt="macOS"
+  />
+</p>
 
-[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+<!-- ==================== INTELIGÊNCIA ARTIFICIAL ==================== -->
 
+<h2 align="center">🤖 Inteligência artificial generativa</h2>
 
-### Operating Systems
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="30px" />  ![Windows](https://img.shields.io/badge/Windows-1E90FF?style=for-the-badge&logo=windows&logoColor=87CEFA)<br>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"
+    alt="Google Gemini"
+  />
+  <img
+    src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge"
+    alt="ChatGPT"
+  />
+  <img
+    src="https://img.shields.io/badge/Microsoft%20Copilot-000000?style=for-the-badge"
+    alt="Microsoft Copilot"
+  />
+  <img
+    src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white"
+    alt="GitHub Copilot"
+  />
+  <img
+    src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"
+    alt="Claude"
+  />
+  <img
+    src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white"
+    alt="Claude Code"
+  />
+</p>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH3EF41GQtwKiRIPDnWKCRgZd5HDuO3cLEfg&s" width="30px"  /> ![](https://img.shields.io/badge/iOS-1C1C1C?style=for-the-badge&logo=&logoColor=black)<br>
+<!-- ==================== AUTOMAÇÃO ==================== -->
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="40px"/>![Android](https://img.shields.io/badge/Android-F5FFFA?style=for-the-badge)
+<h2 align="center">⚡ Automação e chatbots</h2>
 
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
-
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
-
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
-
-### 🤖 Ferramentas de IAs Generativas e  e Bots
-
-![Google Gemini](https://img.shields.io/badge/Gemini-F0F8FF?style=for-the-badge&logo=GoogleGemini&logoColor=1E90FF)
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=FFFAFA)
-
-<img src="https://img.utdstc.com/icon/100/9f5/1009f57c1bb1dc35d93bd3de9a0459dfbaf8527efcd307d72798ff0da80d1eda:200" width="30px"/>![Copilot](https://img.shields.io/badge/Microsoft_Copilot-000000?style=for-the-badge&logo=Microsoft_365_Copilot&logoColor=FFFAFA)
-
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.5.0/files/dark/githubcopilot.png" width="30px"/> ![Github Copilot](https://img.shields.io/badge/Github_Copilot-483D8B?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/BotConversa-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="BotConversa">
+  <img src="https://img.shields.io/badge/ManyChat-0084FF?style=for-the-badge&logo=messenger&logoColor=white" alt="ManyChat">
+  <img src="https://img.shields.io/badge/Zaia-7C3AED?style=for-the-badge&logo=chatbot&logoColor=white" alt="Zaia">
+  <img src="https://img.shields.io/badge/GPTMaker-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="GPTMaker">
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make">
+  <img src="https://img.shields.io/badge/NicoChat-0EA5E9?style=for-the-badge&logo=chatbot&logoColor=white" alt="NicoChat">
+</p>
 
 
 # 🧠 Áreas de Interesse
