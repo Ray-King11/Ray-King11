@@ -1,11 +1,118 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=150&section=header"/>
 <img width=100% src="https://wallpapers.com/images/high/4k-tech-twtykjtj0sv4hi62.webp?type=waving&color=00ff00&height=150&section=header"/>
 
+<div align="center">
+
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Ra%C3%AD+Amorim;Software+Developer;Artificial+Intelligence;Backend+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+
+---
+
+### Building Intelligent Solutions
+
+Software Engineering • Artificial Intelligence • Backend Development • Web Development • Cybersecurity
+
+<br>
+
+<a href="https://github.com/Ray-King11/?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-Ray--King11-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
 # Welcome to my GitHub! 
 
 ## Hello, my name is Raí Amorim!👋 <br>
 
-💻 💬 I am Developer FullStack | I very like technologies.
+💻 💬 Sou desenvolvedor de software apaixonado por tecnologia, programação e inteligência artificial.
+
+Meu principal objetivo é desenvolver aplicações modernas, escaláveis e bem estruturadas, utilizando boas práticas de Engenharia de Software e Arquitetura de Sistemas.
+
+Atualmente concentro meus estudos e projetos nas áreas de:
+
+- Desenvolvimento Backend
+- Inteligência Artificial
+- APIs REST
+- Engenharia de Software
+- Arquitetura de Software
+- Segurança da Informação
+- Cloud Computing
+
+Meu GitHub reúne projetos pessoais, estudos e aplicações completas desenvolvidas durante minha evolução como desenvolvedor.
+
+---
+
+# 🚀 Sobre mim
+
+Sou um profissional em constante evolução.
+
+Acredito que aprender tecnologia vai muito além de dominar uma linguagem de programação. Meu foco é compreender profundamente como sistemas são projetados, desenvolvidos, implantados e escalados.
+
+Tenho interesse especial por:
+
+- Inteligência Artificial
+- Sistemas Web
+- APIs
+- Automação
+- Engenharia de Software
+- Arquitetura de Software
+- Segurança da Informação
+- Cloud Computing
+
+Meu objetivo é construir soluções que sejam:
+
+- Escaláveis
+- Organizadas
+- Performáticas
+- Seguras
+- Bem documentadas
+- Fáceis de manter
+
+---
+
+# 💡 Filosofia de Desenvolvimento
+
+Procuro escrever código que seja:
+
+✔ Legível
+
+✔ Organizado
+
+✔ Reutilizável
+
+✔ Escalável
+
+✔ Testável
+
+✔ Bem documentado
+
+✔ Fácil de evoluir
+
+Acredito que um bom software não depende apenas de funcionar, mas também de ser compreensível por outros desenvolvedores.
+
+---
+
+# 🎯 Objetivos
+
+Meu objetivo profissional é atuar no desenvolvimento de soluções utilizando tecnologias modernas, contribuindo para projetos que gerem impacto real.
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+- Python
+- FastAPI
+- JavaScript
+- APIs REST
+- Banco de Dados
+- Inteligência Artificial
+- Engenharia de Software
+- Arquitetura de Software
+- Cloud Computing
+- Segurança da Informação
+
+
+---
+# 🎯 Cursos e Certificados
 
 | Cursos | Certificados |
 |--------|--------------|
@@ -19,12 +126,11 @@
 |Formação Fundamentos de Inteligência Artificial|[Certificado](https://hermes.dio.me/certificates/ERPGMEQK.pdf)
 |Administração de sistemas e Serviços de Infraestrutura de TI | [Certificado](https://www.coursera.org/account/accomplishments/verify/YPBMKN359STZ?utm_source=android&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course&trk=public_profile_certification-title)|
 
-
+---
 
                
           
 ### Conecte-se comigo 🚀
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ray-King11) <br>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:raidugo.21@outlook.com) <br>
 
@@ -115,7 +221,82 @@
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.5.0/files/dark/githubcopilot.png" width="30px"/> ![Github Copilot](https://img.shields.io/badge/Github_Copilot-483D8B?style=for-the-badge)
 
 
-## 🚀 Featured Projects
+# 🧠 Áreas de Interesse
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 💻 Desenvolvimento
+
+- Backend
+- APIs REST
+- Sistemas Web
+- Automações
+- Dashboards
+
+</td>
+
+<td width="50%">
+
+### 🤖 Inteligência Artificial
+
+- LLMs
+- IA Generativa
+- Chatbots
+- Machine Learning
+- Prompt Engineering
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### ☁ Cloud
+
+- Deploy
+- Containers
+- Docker
+- Render
+- Banco de Dados
+
+</td>
+
+<td>
+
+### 🔐 Segurança
+
+- Ethical Hacking
+- Pentest
+- Redes
+- Hardening
+- Segurança Web
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 Evolução
+
+Sempre procuro desenvolver projetos que representem novos desafios técnicos.
+
+Cada repositório deste perfil foi criado com o objetivo de aprender novas tecnologias, aplicar boas práticas e evoluir continuamente como desenvolvedor.
+
+Mais do que concluir projetos, busco compreender os conceitos que sustentam cada solução.
+
+---
+
+
+
 
 
 
@@ -129,6 +310,17 @@
 ## Minhas Contribuições
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ray-King11&theme=dark)](https://github.com/Ray-King11/dio-lab-open-source.git)
+
+---
+
+
+## ⭐ Obrigado por visitar meu perfil!
+### 🚀 Featured Projects
+
+Em breve você encontrará aqui projetos completos envolvendo Inteligência Artificial, APIs, Engenharia de Software, Cloud Computing e Segurança da Informação.
+
+</div>
+
 
 <img width=75% src="https://i.pinimg.com/736x/5a/70/49/5a704961f5f150e23580da94bd240b4f.jpg?type=waving&color=00ff00&height=50&section=header"/>
 
