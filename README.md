@@ -7,6 +7,7 @@
 
 ---
 
+
 ### Building Intelligent Solutions
 
 Software Engineering • Artificial Intelligence • Backend Development • Web Development • Cybersecurity
@@ -556,9 +557,67 @@ Mais do que concluir projetos, busco compreender os conceitos que sustentam cada
 
 
 ## ⭐ Obrigado por visitar meu perfil!
-### 🚀 Featured Projects
 
-Em breve você encontrará aqui projetos completos envolvendo Inteligência Artificial, APIs, Engenharia de Software, Cloud Computing e Segurança da Informação.
+# 🚀 Projetos em Destaque
+
+## 🌍 História das Copas
+
+Plataforma interativa sobre todas as Copas do Mundo, reunindo
+estatísticas, seleções, partidas, conteúdos históricos e recursos
+multimídia.
+
+**Tecnologias:** HTML, CSS, JavaScript, APIs REST
+
+> Adicione aqui o link do repositório.
+
+------------------------------------------------------------------------
+
+## 💰 Atlas Wealth
+
+Plataforma educacional para simulação patrimonial, FIIs, dividendos e
+análise financeira.
+
+**Deploy**
+
+https://atlas-wealth.onrender.com/
+
+------------------------------------------------------------------------
+
+## ⚡ API REST com FastAPI
+
+API construída em Python utilizando FastAPI.
+
+> [API REST com FastAPI.](https://github.com/Ray-King11/api_rest_completa)
+
+------------------------------------------------------------------------
+
+## 📊 Dashboard Administrativo
+
+Painel administrativo responsivo.
+
+> [Dashboard Administrativo.](https://github.com/Ray-King11/dashboard-_administrativo)
+
+------------------------------------------------------------------------
+
+## 🤖 Inteligência Artificial
+
+Projetos para estudos de IA e automação.
+
+> [Chatbot Python.](https://github.com/Ray-King11/-chatbot-python)
+
+> [Diffusion-AI-Lab.](https://github.com/Ray-King11/Diffusion-AI-Lab)
+
+------------------------------------------------------------------------
+
+## 🔐 Cybersecurity
+
+Projetos e estudos relacionados à Segurança da Informação.
+
+> [Cybersecurity.](https://github.com/Ray-King11/cyber_security)
+
+> [Cybersecurity-Ransomware.](https://github.com/Ray-King11/Cibersecurity-Ransomware)
+
+------------------------------------------------------------------------
 
 </div>
 
