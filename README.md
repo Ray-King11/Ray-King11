@@ -568,7 +568,7 @@ multimídia.
 
 **Tecnologias:** HTML, CSS, JavaScript, APIs REST
 
-> [História das Copas.](https://historia-das-copas.raidugo21.chatgpt.site/)
+[História das Copas.](https://historia-das-copas.raidugo21.chatgpt.site/)(Ainda não públicado)
 
 ------------------------------------------------------------------------
 
@@ -579,7 +579,8 @@ análise financeira.
 
 **Deploy**
 
-https://atlas-wealth.onrender.com/
+
+[Atlas Wealth.](https://atlas-wealth.onrender.com/)
 
 ------------------------------------------------------------------------
 
