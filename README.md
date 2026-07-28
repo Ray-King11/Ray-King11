@@ -43,6 +43,38 @@ Meu GitHub reúne projetos pessoais, estudos e aplicações completas desenvolvi
 
 ---
 
+
+# 📊 Atividade no GitHub
+
+<div align="center">
+
+
+<a href="https://github.com/Ray-King11?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Repositórios-Ver%20projetos-181717?style=for-the-badge&logo=github"
+    alt="Ver repositórios"
+  />
+</a>
+
+<a href="https://github.com/Ray-King11?tab=stars">
+  <img
+    src="https://img.shields.io/badge/GitHub-Projetos%20em%20destaque-181717?style=for-the-badge&logo=github"
+    alt="Projetos em destaque"
+  />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+Meu perfil reúne projetos de desenvolvimento backend, APIs, inteligência artificial, automação, segurança da informação e aplicações web.
+
+</div>
+
+---
+
 # 🚀 Sobre mim
 
 Sou um profissional em constante evolução.
@@ -155,6 +187,8 @@ Atualmente estou aprofundando meus conhecimentos em:
   />
 </p>
 
+---
+
 <h3 align="center">🔀 Versionamento e colaboração</h3>
 
 <p align="center">
@@ -171,6 +205,8 @@ Atualmente estou aprofundando meus conhecimentos em:
     alt="GitLab"
   />
 </p>
+
+---
 
 <h3 align="center">🚀 IDEs e editores de código</h3>
 
@@ -193,6 +229,8 @@ Atualmente estou aprofundando meus conhecimentos em:
   />
 </p>
 
+---
+
 <h2 align="center">💼 Produtividade</h3>
 
 <p align="center">
@@ -202,6 +240,8 @@ Atualmente estou aprofundando meus conhecimentos em:
   />
 </p>
 
+---
+
 <h2 align="center">📊 Análise de dados e BI</h3>
 
 <p align="center">
@@ -210,6 +250,8 @@ Atualmente estou aprofundando meus conhecimentos em:
     alt="Power BI"
   />
 </p>
+
+---
 
 <!-- ==================== BANCO DE DADOS ==================== -->
 
@@ -225,6 +267,8 @@ Atualmente estou aprofundando meus conhecimentos em:
     alt="Azure SQL Database"
   />
 </p>
+
+---
 
 <!-- ==================== DESENVOLVIMENTO ==================== -->
 
@@ -247,7 +291,9 @@ Atualmente estou aprofundando meus conhecimentos em:
   />
 </p>
 
-<h2 align="center">⌨️ Linguagens de programação</h3>
+---
+
+<h3 align="center">⌨️ Linguagens de programação</h3>
 
 <p align="center">
   <img
@@ -264,8 +310,11 @@ Atualmente estou aprofundando meus conhecimentos em:
   />
 </p>
 
+---
 
 <h2 align="center">📚 Bibliotecas e Frameworks</h2>
+
+
 
 <h3 align="center">🌐 Desenvolvimento Front-end</h3>
 
@@ -288,6 +337,8 @@ Atualmente estou aprofundando meus conhecimentos em:
   />
 </p>
 
+---
+
 <h3 align="center">⚙️ Desenvolvimento Back-end</h3>
 
 <p align="center">
@@ -305,6 +356,8 @@ Atualmente estou aprofundando meus conhecimentos em:
   />
 </p>
 
+---
+
 <!-- ==================== CLOUD ==================== -->
 
 <h2 align="center">☁️ Computação em nuvem</h2>
@@ -319,6 +372,8 @@ Atualmente estou aprofundando meus conhecimentos em:
     alt="Microsoft Azure"
   />
 </p>
+
+---
 
 <!-- ==================== SISTEMAS OPERACIONAIS ==================== -->
 
@@ -355,6 +410,9 @@ Atualmente estou aprofundando meus conhecimentos em:
   />
 </p>
 
+---
+
+
 <!-- ==================== INTELIGÊNCIA ARTIFICIAL ==================== -->
 
 <h2 align="center">🤖 Inteligência artificial generativa</h2>
@@ -386,6 +444,8 @@ Atualmente estou aprofundando meus conhecimentos em:
   />
 </p>
 
+---
+
 <!-- ==================== AUTOMAÇÃO ==================== -->
 
 <h2 align="center">⚡ Automação e chatbots</h2>
@@ -400,6 +460,7 @@ Atualmente estou aprofundando meus conhecimentos em:
   <img src="https://img.shields.io/badge/NicoChat-0EA5E9?style=for-the-badge&logo=chatbot&logoColor=white" alt="NicoChat">
 </p>
 
+---
 
 # 🧠 Áreas de Interesse
 
