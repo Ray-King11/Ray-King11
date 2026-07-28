@@ -568,7 +568,7 @@ multimídia.
 
 **Tecnologias:** HTML, CSS, JavaScript, APIs REST
 
-> Adicione aqui o link do repositório.
+> [História das Copas.](https://historia-das-copas.raidugo21.chatgpt.site/)
 
 ------------------------------------------------------------------------
 
